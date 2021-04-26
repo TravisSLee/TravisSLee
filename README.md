@@ -2,6 +2,7 @@
 
 - Highly Motivated Full-Stack Engineer with knowledge of Javascript, React, Redux, and Ruby-on-Rails
 - New Yorker with a rise-n-grind mindset
+- Looking for position in the City of Brotherly Love!
 - Always ready to help whenever needed!
 
 ## Projects
