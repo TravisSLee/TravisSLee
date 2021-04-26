@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Travis👋
 
-<!--
-**TravisSLee/TravisSLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Highly Motivated Full-Stack Engineer with knowledge of Javascript, React, Redux, and Ruby-on-Rails
+- New Yorker with a rise-n-grind mindset
+- Always ready to help whenever needed!
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My_Tunes, [Github](https://github.com/TravisSLee/My_Tunes) | [Demo](https://youtu.be/Y79ZSu-Bb8E)								      		        
+A React-Redux app that allows users to record and scroll through their favorite songs 
+
+- My_Memorabilia, [Github](https://github.com/TravisSLee/My_Memorbilia) | [Demo](https://youtu.be/_ALwE3W3RZk)						          			 
+An app allows the user to record and sort their favorite memorabilia of their favorite athlete
+
+- PokeLearner, [Github](https://github.com/TravisSLee/PokeLearner) | [Demo](https://youtu.be/eOQzblA1y3Y)							                		 
+Build an CLI app that extracted data from a Pokemon api, so people could learn about pokemon
+
+## Contact Info
+
+Email: TravisSLee223@gmail.com
+
+## Skills
+
+Knowledge in the following: Javascript, React, Redux, Ruby, Runy-on-Rails, HTML, CSS, Sinatra
