@@ -2,7 +2,6 @@
 
 - Full-Stack Engineer with knowledge of Javascript, React, Redux, and Ruby-on-Rails
 - Team oriented, dedicated and diligent problem solver
-- Will be able to provide Infosys help for any of their client’s needs
 
 ## Projects
 
