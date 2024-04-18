@@ -1,6 +1,6 @@
 ### Hi, I'm Travis👋
 
-- Full-Stack Engineer with knowledge of Javascript, React, Redux, and Ruby-on-Rails
+- Full-Stack Engineer with knowledge of Javascript, React, Redux, Python, and Ruby-on-Rails
 - Team oriented, dedicated and diligent problem solver
 
 ## Projects
